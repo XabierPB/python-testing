@@ -24,3 +24,5 @@ assert m.foo == 'bar'
 
 m.configure_mock(bar='baz')
 assert m.bar == 'baz'
+
+https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832
